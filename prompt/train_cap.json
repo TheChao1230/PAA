@@ -1,0 +1,9 @@
+{
+  "train_cap": [
+    "Detail the primary action or subject in the photo.",
+    "Imagine this image in a magazine. What caption would go with it?",
+    "Summarize the scenario depicted in this image.",
+    "How would you describe this image to someone who can't see it?",
+    "Narrate the visual elements present in this image."
+  ]
+}

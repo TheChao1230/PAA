@@ -1,0 +1,19 @@
+{
+  "test_cls": [
+    "Imagine you're explaining this image to someone over the phone. Please describe the image in one word?",
+    "Perform the image classification task on this image. Give the label in one word.",
+    "Imagine a child is trying to identify the image. What might they excitedly point to and name?",
+    "If this image were turned into a jigsaw puzzle, what would the box label say to describe the picture inside?",
+    "Classify the content of this image.",
+    "If you were to label this image, what label would you give?",
+    "What category best describes this image?",
+    "Describe the central subject of this image in a single word.",
+    "If this image were in a photo album, what would its label be?",
+    "Categorize the content of the image.",
+    "If you were to sort this image into a category, which one would it be?",
+    "What keyword would you associate with this image?",
+    "If this image were in a gallery, under which section would it belong?",
+    "Describe the main theme of this image in one word.",
+    "If you were to archive this image, what descriptor would you use?"
+  ]
+}

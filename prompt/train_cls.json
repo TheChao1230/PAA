@@ -1,0 +1,9 @@
+{
+  "train_cls": [
+    "Under which category would this image be cataloged in a library?",
+    "Assign a relevant classification to this image.",
+    "What classification tag fits this image the best?",
+    "Provide a one-word description of this image's content.",
+    "Provide a classification for the object depicted in this image."
+  ]
+}
